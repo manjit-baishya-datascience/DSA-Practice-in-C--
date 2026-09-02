@@ -3,7 +3,7 @@ Q1 : Sum of two numbers (with input)
 Q2 : Area of a square
 Q3 : Sum of numbers from 1 to N
 Q4 : Find if a given number is prime or not
-Q5 : Check if an entered character is UPPER of LOWER case.
+Q5 : Check if an entered character is UPPER (65-90) of LOWER (97-122) case.
 Q6 : Sum of all odd numbers from 1 to N
 Q7 : Sum of all number from 1 to N which are divisible by 3
 Q8 : Factorial of a number N
